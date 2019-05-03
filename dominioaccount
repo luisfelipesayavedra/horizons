@@ -1,0 +1,25 @@
+
+
+account: horizonstmanage@gmail.com
+password: horizons132546879+-+- ==>> la cuenta de godaddy contiene la misma contraseña pero la H es mayuscula
+//THIS IS AN ACCOUNT FOR MANAGE THE DOMAIN AND DNS, THIS DOMAIN DON'T HAVE THE SAME ACCOUNT FOR THE HOSTING SERVICE
+  THE ACCOUNT FOR THE HOSTING IS PROVIDING BY LUIS FELIPE SAYAVEDRA IN DIGITAL OCEAN AS A SERVER
+
+ip: horizons and ssh
+Your new Droplet is all set to go! You can access it using the following credentials:
+
+Droplet Name: ubuntu-s-1vcpu-1gb-sfo2-01-horizons
+IP Address: 165.22.136.145
+Username: root
+Password: 59d98e3d46b35bc6e6e07f91cb
+
+For security reasons, you will be required to change this Droplet’s root password when you login. You should choose a strong password that will be easy for you to remember, but hard for a computer to guess. You might try creating an alpha-numerical phrase from a memorable sentence (e.g. “I won my first spelling bee at age 7,” might become “Iwm#1sbaa7”). Random strings of common words, such as “Mousetrap Sandwich Hospital Anecdote,” tend to work well, too.
+
+As an added security measure, we also strongly recommend adding an SSH key to your account. You can do that here: https://cloud.digitalocean.com/settings/security?i=531b28
+
+Once added, you can select your SSH key and use it when creating future Droplets. This eliminates the need for root passwords altogether, and makes your Droplets much less vulnerable to attack.
+
+Happy Coding,
+Team DigitalOcean
+
+
